@@ -121,3 +121,13 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+/* Daftar list */
+.list {
+  text-align: left;
+  max-width: 600px;
+  margin: 20px auto;
+  padding-left: 20px;
+}
+.list li {
+  margin-bottom: 10px;
+}
